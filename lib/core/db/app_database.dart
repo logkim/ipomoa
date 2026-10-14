@@ -7,6 +7,16 @@ export 'tables/ipo_tables.dart';
 
 part 'app_database.g.dart';
 
+QueryExecutor _openConnection() {
+  return driftDatabase(
+    name: 'ipo_app',
+    web: DriftWebOptions(
+      sqlite3Wasm: Uri.parse('sqlite3.wasm'),
+      driftWorker: Uri.parse('drift_worker.js'),
+    ),
+  );
+}
+
 @DriftDatabase(
   tables: [
     IpoItems,
@@ -14,10 +24,10 @@ part 'app_database.g.dart';
   ],
 )
 class AppDatabase extends _$AppDatabase {
-  AppDatabase([QueryExecutor? executor]) : super(executor ?? driftDatabase(name: 'ipo_app'));
+  AppDatabase([QueryExecutor? executor]) : super(executor ?? _openConnection());
 
   /// 앱 기본 DB 파일(`ipo_app`)을 연다.
-  AppDatabase.open() : super(driftDatabase(name: 'ipo_app'));
+  AppDatabase.open() : super(_openConnection());
 
   @override
   int get schemaVersion => 1;

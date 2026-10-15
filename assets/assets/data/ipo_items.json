@@ -254,7 +254,7 @@
   {
     "name": "SK증권스팩14호",
     "schedule": "2026.10.15~10.16",
-    "confirmedPrice": "-",
+    "confirmedPrice": "2,000",
     "expectedPrice": "2,000~2,000",
     "competitionRate": "-",
     "underwriter": "SK증권",
@@ -268,7 +268,7 @@
     "schedule": "2026.10.13~10.14",
     "confirmedPrice": "18,500",
     "expectedPrice": "17,000~18,500",
-    "competitionRate": "-",
+    "competitionRate": "987:1",
     "underwriter": "대신증권,유진증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2326&l=&page=1",
     "refundDate": "2026.10.16",

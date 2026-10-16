@@ -24,6 +24,18 @@
     "memo": ""
   },
   {
+    "name": "엠비디",
+    "schedule": "2026.11.12~11.13",
+    "confirmedPrice": "-",
+    "expectedPrice": "9,600~11,700",
+    "competitionRate": "-",
+    "underwriter": "하나증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2321&l=&page=1",
+    "refundDate": "2026.11.17",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "엔키화이트햇",
     "schedule": "2026.11.12~11.13",
     "confirmedPrice": "-",
@@ -144,18 +156,6 @@
     "memo": ""
   },
   {
-    "name": "엠비디",
-    "schedule": "2026.10.28~10.29",
-    "confirmedPrice": "-",
-    "expectedPrice": "9,600~11,700",
-    "competitionRate": "-",
-    "underwriter": "하나증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2321&l=&page=1",
-    "refundDate": "2026.11.02",
-    "listingDate": "",
-    "memo": ""
-  },
-  {
     "name": "아이엠스팩1호",
     "schedule": "2026.10.26~10.27",
     "confirmedPrice": "-",
@@ -268,7 +268,7 @@
     "schedule": "2026.10.13~10.14",
     "confirmedPrice": "18,500",
     "expectedPrice": "17,000~18,500",
-    "competitionRate": "987:1",
+    "competitionRate": "986.99:1",
     "underwriter": "대신증권,유진증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2326&l=&page=1",
     "refundDate": "2026.10.16",

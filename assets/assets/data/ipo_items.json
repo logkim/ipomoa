@@ -36,6 +36,18 @@
     "memo": ""
   },
   {
+    "name": "씨앤엠",
+    "schedule": "2026.11.12~11.13",
+    "confirmedPrice": "-",
+    "expectedPrice": "10,000~13,000",
+    "competitionRate": "-",
+    "underwriter": "한국투자증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2346&l=&page=1",
+    "refundDate": "2026.11.17",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "엔키화이트햇",
     "schedule": "2026.11.12~11.13",
     "confirmedPrice": "-",
@@ -43,6 +55,18 @@
     "competitionRate": "-",
     "underwriter": "신영증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2343&l=&page=1",
+    "refundDate": "2026.11.17",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
+    "name": "제이앤티지",
+    "schedule": "2026.11.12~11.13",
+    "confirmedPrice": "-",
+    "expectedPrice": "26,400~31,900",
+    "competitionRate": "-",
+    "underwriter": "대신증권,NH투자증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2347&l=&page=1",
     "refundDate": "2026.11.17",
     "listingDate": "",
     "memo": ""
@@ -218,7 +242,7 @@
   {
     "name": "티앤이코리아",
     "schedule": "2026.10.20~10.21",
-    "confirmedPrice": "-",
+    "confirmedPrice": "15,300",
     "expectedPrice": "12,600~15,300",
     "competitionRate": "-",
     "underwriter": "신한투자증권",
@@ -256,7 +280,7 @@
     "schedule": "2026.10.15~10.16",
     "confirmedPrice": "2,000",
     "expectedPrice": "2,000~2,000",
-    "competitionRate": "-",
+    "competitionRate": "656:1",
     "underwriter": "SK증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2319&l=&page=1",
     "refundDate": "2026.10.20",
@@ -333,30 +357,6 @@
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2307&l=&page=1",
     "refundDate": "2026.09.22",
     "listingDate": "2026.10.01",
-    "memo": ""
-  },
-  {
-    "name": "덕산넵코어스(구.넵코어스)",
-    "schedule": "2026.09.16~09.17",
-    "confirmedPrice": "14,600",
-    "expectedPrice": "12,400~14,600",
-    "competitionRate": "332.82:1",
-    "underwriter": "대신증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2309&l=&page=1",
-    "refundDate": "2026.09.21",
-    "listingDate": "2026.09.30",
-    "memo": ""
-  },
-  {
-    "name": "글로벌테크놀로지",
-    "schedule": "2026.09.16~09.17",
-    "confirmedPrice": "10,000",
-    "expectedPrice": "13,000~15,000",
-    "competitionRate": "57.15:1",
-    "underwriter": "한국투자증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2310&l=&page=1",
-    "refundDate": "2026.09.21",
-    "listingDate": "2026.09.29",
     "memo": ""
   }
 ]

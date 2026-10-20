@@ -1,5 +1,17 @@
 [
   {
+    "name": "씨아이에스케미칼",
+    "schedule": "2026.12.10~12.11",
+    "confirmedPrice": "-",
+    "expectedPrice": "5,400~6,800",
+    "competitionRate": "-",
+    "underwriter": "KB증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2348&l=&page=1",
+    "refundDate": "2026.12.15",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "케이엠에프",
     "schedule": "2026.11.24~11.25",
     "confirmedPrice": "-",
@@ -20,6 +32,18 @@
     "underwriter": "삼성증권,미래에셋증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2345&l=&page=1",
     "refundDate": "2026.11.26",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
+    "name": "에스에프씨(유가)",
+    "schedule": "2026.11.18~11.19",
+    "confirmedPrice": "-",
+    "expectedPrice": "31,600~36,100",
+    "competitionRate": "-",
+    "underwriter": "미래에셋증권,한국투자증권,삼성증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2349&l=&page=1",
+    "refundDate": "2026.11.23",
     "listingDate": "",
     "memo": ""
   },
@@ -248,13 +272,13 @@
     "underwriter": "신한투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2322&l=&page=1",
     "refundDate": "2026.10.23",
-    "listingDate": "",
+    "listingDate": "2026.10.29",
     "memo": ""
   },
   {
     "name": "크리에이츠",
     "schedule": "2026.10.20~10.21",
-    "confirmedPrice": "-",
+    "confirmedPrice": "15,000",
     "expectedPrice": "15,000~18,000",
     "competitionRate": "-",
     "underwriter": "삼성증권",
@@ -266,13 +290,13 @@
   {
     "name": "한화플러스스팩6호",
     "schedule": "2026.10.20~10.21",
-    "confirmedPrice": "-",
+    "confirmedPrice": "2,000",
     "expectedPrice": "2,000~2,000",
     "competitionRate": "-",
     "underwriter": "한화투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2330&l=&page=1",
     "refundDate": "2026.10.23",
-    "listingDate": "",
+    "listingDate": "2026.10.30",
     "memo": ""
   },
   {
@@ -333,30 +357,6 @@
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2320&l=&page=1",
     "refundDate": "2026.10.08",
     "listingDate": "2026.10.15",
-    "memo": ""
-  },
-  {
-    "name": "멜콘(구.에스앤에프솔루션)",
-    "schedule": "2026.10.01~10.02",
-    "confirmedPrice": "12,300",
-    "expectedPrice": "10,700~12,300",
-    "competitionRate": "1741.48:1",
-    "underwriter": "대신증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2315&l=&page=1",
-    "refundDate": "2026.10.07",
-    "listingDate": "2026.10.15",
-    "memo": ""
-  },
-  {
-    "name": "브릴스",
-    "schedule": "2026.09.17~09.18",
-    "confirmedPrice": "19,500",
-    "expectedPrice": "16,500~19,500",
-    "competitionRate": "1676.26:1",
-    "underwriter": "IBK투자증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2307&l=&page=1",
-    "refundDate": "2026.09.22",
-    "listingDate": "2026.10.01",
     "memo": ""
   }
 ]

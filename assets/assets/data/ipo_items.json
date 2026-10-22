@@ -12,6 +12,30 @@
     "memo": ""
   },
   {
+    "name": "이노보테라퓨틱스",
+    "schedule": "2026.12.07~12.08",
+    "confirmedPrice": "-",
+    "expectedPrice": "20,000~24,000",
+    "competitionRate": "-",
+    "underwriter": "한국투자증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2351&l=&page=1",
+    "refundDate": "2026.12.10",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
+    "name": "에이엔에이치스트럭쳐",
+    "schedule": "2026.11.27~11.30",
+    "confirmedPrice": "-",
+    "expectedPrice": "11,200~13,600",
+    "competitionRate": "-",
+    "underwriter": "NH투자증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2350&l=&page=1",
+    "refundDate": "2026.12.02",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "케이엠에프",
     "schedule": "2026.11.24~11.25",
     "confirmedPrice": "-",
@@ -43,6 +67,18 @@
     "competitionRate": "-",
     "underwriter": "미래에셋증권,한국투자증권,삼성증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2349&l=&page=1",
+    "refundDate": "2026.11.23",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
+    "name": "유캐스트",
+    "schedule": "2026.11.18~11.19",
+    "confirmedPrice": "-",
+    "expectedPrice": "19,000~23,000",
+    "competitionRate": "-",
+    "underwriter": "유진투자증권,신영증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2352&l=&page=1",
     "refundDate": "2026.11.23",
     "listingDate": "",
     "memo": ""
@@ -218,7 +254,7 @@
   {
     "name": "래블업",
     "schedule": "2026.10.22~10.23",
-    "confirmedPrice": "-",
+    "confirmedPrice": "19,000",
     "expectedPrice": "19,000~22,000",
     "competitionRate": "-",
     "underwriter": "NH투자증권",
@@ -230,25 +266,25 @@
   {
     "name": "이에스티",
     "schedule": "2026.10.22~10.23",
-    "confirmedPrice": "-",
+    "confirmedPrice": "12,400",
     "expectedPrice": "10,600~12,400",
     "competitionRate": "-",
     "underwriter": "대신증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2332&l=&page=1",
     "refundDate": "2026.10.27",
-    "listingDate": "",
+    "listingDate": "2026.11.04",
     "memo": ""
   },
   {
     "name": "영광(구.영광공작소)",
     "schedule": "2026.10.22~10.23",
-    "confirmedPrice": "-",
+    "confirmedPrice": "17,000",
     "expectedPrice": "14,000~17,000",
     "competitionRate": "-",
     "underwriter": "한국투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2333&l=&page=1",
     "refundDate": "2026.10.27",
-    "listingDate": "",
+    "listingDate": "2026.11.02",
     "memo": ""
   },
   {
@@ -268,7 +304,7 @@
     "schedule": "2026.10.20~10.21",
     "confirmedPrice": "15,300",
     "expectedPrice": "12,600~15,300",
-    "competitionRate": "-",
+    "competitionRate": "1253.39:1",
     "underwriter": "신한투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2322&l=&page=1",
     "refundDate": "2026.10.23",
@@ -280,7 +316,7 @@
     "schedule": "2026.10.20~10.21",
     "confirmedPrice": "15,000",
     "expectedPrice": "15,000~18,000",
-    "competitionRate": "-",
+    "competitionRate": "6.92:1",
     "underwriter": "삼성증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2323&l=&page=1",
     "refundDate": "2026.10.23",
@@ -292,7 +328,7 @@
     "schedule": "2026.10.20~10.21",
     "confirmedPrice": "2,000",
     "expectedPrice": "2,000~2,000",
-    "competitionRate": "-",
+    "competitionRate": "185.75:1",
     "underwriter": "한화투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2330&l=&page=1",
     "refundDate": "2026.10.23",
@@ -321,42 +357,6 @@
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2326&l=&page=1",
     "refundDate": "2026.10.16",
     "listingDate": "2026.10.23",
-    "memo": ""
-  },
-  {
-    "name": "엠에스바이오",
-    "schedule": "2026.10.12~10.13",
-    "confirmedPrice": "7,800",
-    "expectedPrice": "6,800~7,800",
-    "competitionRate": "1538.51:1",
-    "underwriter": "KB증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2324&l=&page=1",
-    "refundDate": "2026.10.15",
-    "listingDate": "2026.10.22",
-    "memo": ""
-  },
-  {
-    "name": "엘리스그룹",
-    "schedule": "2026.10.07~10.08",
-    "confirmedPrice": "90,500",
-    "expectedPrice": "70,400~90,500",
-    "competitionRate": "408:1",
-    "underwriter": "미래에셋증권,삼성증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2316&l=&page=1",
-    "refundDate": "2026.10.13",
-    "listingDate": "2026.10.20",
-    "memo": ""
-  },
-  {
-    "name": "진코스텍",
-    "schedule": "2026.10.02~10.06",
-    "confirmedPrice": "23,500",
-    "expectedPrice": "19,500~23,500",
-    "competitionRate": "685:1",
-    "underwriter": "하나증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2320&l=&page=1",
-    "refundDate": "2026.10.08",
-    "listingDate": "2026.10.15",
     "memo": ""
   }
 ]

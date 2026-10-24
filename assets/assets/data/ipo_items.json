@@ -12,6 +12,18 @@
     "memo": ""
   },
   {
+    "name": "인터엑스",
+    "schedule": "2026.12.09~12.10",
+    "confirmedPrice": "-",
+    "expectedPrice": "10,000~13,000",
+    "competitionRate": "-",
+    "underwriter": "한국투자증권,BNK투자증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2353&l=&page=1",
+    "refundDate": "2026.12.14",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "이노보테라퓨틱스",
     "schedule": "2026.12.07~12.08",
     "confirmedPrice": "-",
@@ -256,7 +268,7 @@
     "schedule": "2026.10.22~10.23",
     "confirmedPrice": "19,000",
     "expectedPrice": "19,000~22,000",
-    "competitionRate": "-",
+    "competitionRate": "3.55:1",
     "underwriter": "NH투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2335&l=&page=1",
     "refundDate": "2026.10.27",
@@ -268,7 +280,7 @@
     "schedule": "2026.10.22~10.23",
     "confirmedPrice": "12,400",
     "expectedPrice": "10,600~12,400",
-    "competitionRate": "-",
+    "competitionRate": "28.95:1",
     "underwriter": "대신증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2332&l=&page=1",
     "refundDate": "2026.10.27",
@@ -280,7 +292,7 @@
     "schedule": "2026.10.22~10.23",
     "confirmedPrice": "17,000",
     "expectedPrice": "14,000~17,000",
-    "competitionRate": "-",
+    "competitionRate": "684.73:1",
     "underwriter": "한국투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2333&l=&page=1",
     "refundDate": "2026.10.27",
@@ -345,18 +357,6 @@
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2319&l=&page=1",
     "refundDate": "2026.10.20",
     "listingDate": "2026.10.27",
-    "memo": ""
-  },
-  {
-    "name": "디티에스(구.동양티에스)",
-    "schedule": "2026.10.13~10.14",
-    "confirmedPrice": "18,500",
-    "expectedPrice": "17,000~18,500",
-    "competitionRate": "986.99:1",
-    "underwriter": "대신증권,유진증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2326&l=&page=1",
-    "refundDate": "2026.10.16",
-    "listingDate": "2026.10.23",
     "memo": ""
   }
 ]

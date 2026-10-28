@@ -48,6 +48,18 @@
     "memo": ""
   },
   {
+    "name": "엔키화이트햇",
+    "schedule": "2026.12.01~12.02",
+    "confirmedPrice": "-",
+    "expectedPrice": "13,000~16,500",
+    "competitionRate": "-",
+    "underwriter": "신영증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2343&l=&page=1",
+    "refundDate": "2026.12.04",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "에이엔에이치스트럭쳐",
     "schedule": "2026.11.27~11.30",
     "confirmedPrice": "-",
@@ -139,18 +151,6 @@
     "competitionRate": "-",
     "underwriter": "한국투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2346&l=&page=1",
-    "refundDate": "2026.11.17",
-    "listingDate": "",
-    "memo": ""
-  },
-  {
-    "name": "엔키화이트햇",
-    "schedule": "2026.11.12~11.13",
-    "confirmedPrice": "-",
-    "expectedPrice": "13,000~16,500",
-    "competitionRate": "-",
-    "underwriter": "신영증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2343&l=&page=1",
     "refundDate": "2026.11.17",
     "listingDate": "",
     "memo": ""
@@ -268,7 +268,7 @@
     "schedule": "2026.10.26~10.27",
     "confirmedPrice": "2,000",
     "expectedPrice": "2,000~2,000",
-    "competitionRate": "-",
+    "competitionRate": "1112.73:1",
     "underwriter": "아이엠증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2329&l=&page=1",
     "refundDate": "2026.10.29",
@@ -316,7 +316,7 @@
     "schedule": "2026.10.21~10.22",
     "confirmedPrice": "9,000",
     "expectedPrice": "7,600~9,000",
-    "competitionRate": "-",
+    "competitionRate": "1410.87:1",
     "underwriter": "미래에셋증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2328&l=&page=1",
     "refundDate": "2026.10.26",

@@ -1,5 +1,29 @@
 [
   {
+    "name": "KTE",
+    "schedule": "2026.12.14~12.15",
+    "confirmedPrice": "-",
+    "expectedPrice": "19,000~23,000",
+    "competitionRate": "-",
+    "underwriter": "NH투자증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2355&l=&page=1",
+    "refundDate": "2026.12.17",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
+    "name": "데스틴파워",
+    "schedule": "2026.12.14~12.15",
+    "confirmedPrice": "-",
+    "expectedPrice": "8,000~11,000",
+    "competitionRate": "-",
+    "underwriter": "한국투자증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2356&l=&page=1",
+    "refundDate": "2026.12.17",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "씨아이에스케미칼",
     "schedule": "2026.12.10~12.11",
     "confirmedPrice": "-",
@@ -91,6 +115,18 @@
     "competitionRate": "-",
     "underwriter": "IBK투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2340&l=&page=1",
+    "refundDate": "2026.11.27",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
+    "name": "신영스팩12호",
+    "schedule": "2026.11.24~11.25",
+    "confirmedPrice": "-",
+    "expectedPrice": "2,000~2,000",
+    "competitionRate": "-",
+    "underwriter": "신영증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2357&l=&page=1",
     "refundDate": "2026.11.27",
     "listingDate": "",
     "memo": ""
@@ -320,42 +356,6 @@
     "underwriter": "미래에셋증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2328&l=&page=1",
     "refundDate": "2026.10.26",
-    "listingDate": "2026.10.30",
-    "memo": ""
-  },
-  {
-    "name": "티앤이코리아",
-    "schedule": "2026.10.20~10.21",
-    "confirmedPrice": "15,300",
-    "expectedPrice": "12,600~15,300",
-    "competitionRate": "1253.39:1",
-    "underwriter": "신한투자증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2322&l=&page=1",
-    "refundDate": "2026.10.23",
-    "listingDate": "2026.10.29",
-    "memo": ""
-  },
-  {
-    "name": "크리에이츠",
-    "schedule": "2026.10.20~10.21",
-    "confirmedPrice": "15,000",
-    "expectedPrice": "15,000~18,000",
-    "competitionRate": "6.92:1",
-    "underwriter": "삼성증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2323&l=&page=1",
-    "refundDate": "2026.10.23",
-    "listingDate": "2026.10.30",
-    "memo": ""
-  },
-  {
-    "name": "한화플러스스팩6호",
-    "schedule": "2026.10.20~10.21",
-    "confirmedPrice": "2,000",
-    "expectedPrice": "2,000~2,000",
-    "competitionRate": "185.75:1",
-    "underwriter": "한화투자증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2330&l=&page=1",
-    "refundDate": "2026.10.23",
     "listingDate": "2026.10.30",
     "memo": ""
   }

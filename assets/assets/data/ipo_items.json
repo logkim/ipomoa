@@ -242,13 +242,13 @@
   {
     "name": "옵토닉스",
     "schedule": "2026.11.05~11.06",
-    "confirmedPrice": "-",
+    "confirmedPrice": "12,000",
     "expectedPrice": "10,000~12,000",
     "competitionRate": "-",
     "underwriter": "한국투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2338&l=&page=1",
     "refundDate": "2026.11.10",
-    "listingDate": "",
+    "listingDate": "2026.11.17",
     "memo": ""
   },
   {
@@ -290,13 +290,13 @@
   {
     "name": "동원파츠",
     "schedule": "2026.11.02~11.03",
-    "confirmedPrice": "-",
+    "confirmedPrice": "26,500",
     "expectedPrice": "23,000~26,500",
     "competitionRate": "-",
     "underwriter": "삼성증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2339&l=&page=1",
     "refundDate": "2026.11.05",
-    "listingDate": "",
+    "listingDate": "2026.11.10",
     "memo": ""
   },
   {

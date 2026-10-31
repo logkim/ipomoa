@@ -266,25 +266,25 @@
   {
     "name": "넥스아이",
     "schedule": "2026.11.03~11.04",
-    "confirmedPrice": "-",
+    "confirmedPrice": "8,000",
     "expectedPrice": "10,500~13,000",
     "competitionRate": "-",
     "underwriter": "한국투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2336&l=&page=1",
     "refundDate": "2026.11.06",
-    "listingDate": "",
+    "listingDate": "2026.11.12",
     "memo": ""
   },
   {
     "name": "바로팜",
     "schedule": "2026.11.02~11.03",
-    "confirmedPrice": "-",
+    "confirmedPrice": "16,400",
     "expectedPrice": "16,400~20,200",
     "competitionRate": "-",
     "underwriter": "미래에셋증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2325&l=&page=1",
     "refundDate": "2026.11.05",
-    "listingDate": "",
+    "listingDate": "2026.11.11",
     "memo": ""
   },
   {

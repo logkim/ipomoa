@@ -254,13 +254,13 @@
   {
     "name": "영광와이케이엠씨",
     "schedule": "2026.11.04~11.05",
-    "confirmedPrice": "-",
+    "confirmedPrice": "11,000",
     "expectedPrice": "9,400~11,000",
     "competitionRate": "-",
     "underwriter": "대신증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2342&l=&page=1",
     "refundDate": "2026.11.09",
-    "listingDate": "",
+    "listingDate": "2026.11.16",
     "memo": ""
   },
   {
@@ -280,7 +280,7 @@
     "schedule": "2026.11.02~11.03",
     "confirmedPrice": "16,400",
     "expectedPrice": "16,400~20,200",
-    "competitionRate": "-",
+    "competitionRate": "19.27:1",
     "underwriter": "미래에셋증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2325&l=&page=1",
     "refundDate": "2026.11.05",
@@ -292,7 +292,7 @@
     "schedule": "2026.11.02~11.03",
     "confirmedPrice": "26,500",
     "expectedPrice": "23,000~26,500",
-    "competitionRate": "-",
+    "competitionRate": "1219.37:1",
     "underwriter": "삼성증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2339&l=&page=1",
     "refundDate": "2026.11.05",

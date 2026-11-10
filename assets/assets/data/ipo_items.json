@@ -218,13 +218,13 @@
   {
     "name": "하나에어로다이내믹스",
     "schedule": "2026.11.10~11.11",
-    "confirmedPrice": "-",
+    "confirmedPrice": "5,700",
     "expectedPrice": "4,700~5,700",
     "competitionRate": "-",
     "underwriter": "IBK투자증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2334&l=&page=1",
     "refundDate": "2026.11.13",
-    "listingDate": "",
+    "listingDate": "2026.11.20",
     "memo": ""
   },
   {
@@ -232,11 +232,11 @@
     "schedule": "2026.11.06~11.09",
     "confirmedPrice": "17,600",
     "expectedPrice": "15,700~17,600",
-    "competitionRate": "-",
+    "competitionRate": "834.73:1",
     "underwriter": "대신증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2331&l=&page=1",
     "refundDate": "2026.11.11",
-    "listingDate": "",
+    "listingDate": "2026.11.18",
     "memo": ""
   },
   {

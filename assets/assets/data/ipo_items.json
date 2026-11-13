@@ -1,5 +1,17 @@
 [
   {
+    "name": "태석광학",
+    "schedule": "2026.12.14~12.15",
+    "confirmedPrice": "-",
+    "expectedPrice": "17,500~20,200",
+    "competitionRate": "-",
+    "underwriter": "신한투자증권,대신증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2360&l=&page=1",
+    "refundDate": "2026.12.17",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "KTE",
     "schedule": "2026.12.14~12.15",
     "confirmedPrice": "-",
@@ -164,7 +176,7 @@
     "underwriter": "삼성증권,미래에셋증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2345&l=&page=1",
     "refundDate": "2026.11.26",
-    "listingDate": "",
+    "listingDate": "2026.12.02",
     "memo": ""
   },
   {
@@ -176,7 +188,7 @@
     "underwriter": "미래에셋증권,한국투자증권,삼성증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2349&l=&page=1",
     "refundDate": "2026.11.23",
-    "listingDate": "",
+    "listingDate": "2026.11.27",
     "memo": ""
   },
   {
@@ -188,7 +200,7 @@
     "underwriter": "유진투자증권,신영증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2352&l=&page=1",
     "refundDate": "2026.11.23",
-    "listingDate": "",
+    "listingDate": "2026.11.30",
     "memo": ""
   },
   {
@@ -345,18 +357,6 @@
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2328&l=&page=1",
     "refundDate": "2026.10.26",
     "listingDate": "2026.10.30",
-    "memo": ""
-  },
-  {
-    "name": "티앤이코리아",
-    "schedule": "2026.10.20~10.21",
-    "confirmedPrice": "15,300",
-    "expectedPrice": "12,600~15,300",
-    "competitionRate": "1253.39:1",
-    "underwriter": "신한투자증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2322&l=&page=1",
-    "refundDate": "2026.10.23",
-    "listingDate": "2026.10.29",
     "memo": ""
   }
 ]

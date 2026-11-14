@@ -1,5 +1,17 @@
 [
   {
+    "name": "제논",
+    "schedule": "2026.12.14~12.15",
+    "confirmedPrice": "-",
+    "expectedPrice": "9,700~12,200",
+    "competitionRate": "-",
+    "underwriter": "삼성증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2341&l=&page=1",
+    "refundDate": "2026.12.17",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "태석광학",
     "schedule": "2026.12.14~12.15",
     "confirmedPrice": "-",
@@ -132,18 +144,6 @@
     "memo": ""
   },
   {
-    "name": "제논",
-    "schedule": "2026.11.24~11.25",
-    "confirmedPrice": "-",
-    "expectedPrice": "9,700~12,200",
-    "competitionRate": "-",
-    "underwriter": "삼성증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2341&l=&page=1",
-    "refundDate": "2026.11.27",
-    "listingDate": "",
-    "memo": ""
-  },
-  {
     "name": "케이엠에프",
     "schedule": "2026.11.24~11.25",
     "confirmedPrice": "-",
@@ -208,7 +208,7 @@
     "schedule": "2026.11.12~11.13",
     "confirmedPrice": "7,000",
     "expectedPrice": "9,600~11,700",
-    "competitionRate": "-",
+    "competitionRate": "172:1",
     "underwriter": "하나증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2321&l=&page=1",
     "refundDate": "2026.11.17",

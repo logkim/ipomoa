@@ -1,5 +1,17 @@
 [
   {
+    "name": "이나인페이",
+    "schedule": "2026.12.16~12.17",
+    "confirmedPrice": "-",
+    "expectedPrice": "7,500~10,500",
+    "competitionRate": "-",
+    "underwriter": "한국투자증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2361&l=&page=1",
+    "refundDate": "2026.12.21",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "제논",
     "schedule": "2026.12.14~12.15",
     "confirmedPrice": "-",
@@ -19,6 +31,18 @@
     "competitionRate": "-",
     "underwriter": "신한투자증권,대신증권",
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2360&l=&page=1",
+    "refundDate": "2026.12.17",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
+    "name": "엠디에스코리아",
+    "schedule": "2026.12.14~12.15",
+    "confirmedPrice": "-",
+    "expectedPrice": "9,500~11,500",
+    "competitionRate": "-",
+    "underwriter": "미래에셋증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2362&l=&page=1",
     "refundDate": "2026.12.17",
     "listingDate": "",
     "memo": ""
@@ -180,21 +204,9 @@
     "memo": ""
   },
   {
-    "name": "에스에프씨(유가)",
-    "schedule": "2026.11.18~11.19",
-    "confirmedPrice": "-",
-    "expectedPrice": "31,600~36,100",
-    "competitionRate": "-",
-    "underwriter": "미래에셋증권,한국투자증권,삼성증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2349&l=&page=1",
-    "refundDate": "2026.11.23",
-    "listingDate": "2026.11.27",
-    "memo": ""
-  },
-  {
     "name": "유캐스트",
     "schedule": "2026.11.18~11.19",
-    "confirmedPrice": "-",
+    "confirmedPrice": "19,000",
     "expectedPrice": "19,000~23,000",
     "competitionRate": "-",
     "underwriter": "유진투자증권,신영증권",
@@ -345,18 +357,6 @@
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2333&l=&page=1",
     "refundDate": "2026.10.27",
     "listingDate": "2026.11.02",
-    "memo": ""
-  },
-  {
-    "name": "인텔리빅스",
-    "schedule": "2026.10.21~10.22",
-    "confirmedPrice": "9,000",
-    "expectedPrice": "7,600~9,000",
-    "competitionRate": "1410.87:1",
-    "underwriter": "미래에셋증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2328&l=&page=1",
-    "refundDate": "2026.10.26",
-    "listingDate": "2026.10.30",
     "memo": ""
   }
 ]

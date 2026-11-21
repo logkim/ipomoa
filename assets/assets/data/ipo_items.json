@@ -1,5 +1,17 @@
 [
   {
+    "name": "피지티",
+    "schedule": "2026.12.17~12.18",
+    "confirmedPrice": "-",
+    "expectedPrice": "18,000~20,000",
+    "competitionRate": "-",
+    "underwriter": "한국투자증권,유안타증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2363&l=&page=1",
+    "refundDate": "2026.12.22",
+    "listingDate": "",
+    "memo": ""
+  },
+  {
     "name": "이나인페이",
     "schedule": "2026.12.16~12.17",
     "confirmedPrice": "-",
@@ -345,18 +357,6 @@
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2333&l=&page=1",
     "refundDate": "2026.10.27",
     "listingDate": "2026.11.02",
-    "memo": ""
-  },
-  {
-    "name": "인텔리빅스",
-    "schedule": "2026.10.21~10.22",
-    "confirmedPrice": "9,000",
-    "expectedPrice": "7,600~9,000",
-    "competitionRate": "1410.87:1",
-    "underwriter": "미래에셋증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2328&l=&page=1",
-    "refundDate": "2026.10.26",
-    "listingDate": "2026.10.30",
     "memo": ""
   }
 ]

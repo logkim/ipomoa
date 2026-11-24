@@ -180,21 +180,9 @@
     "memo": ""
   },
   {
-    "name": "케이엠에프",
-    "schedule": "2026.11.24~11.25",
-    "confirmedPrice": "-",
-    "expectedPrice": "15,000~17,800",
-    "competitionRate": "-",
-    "underwriter": "IBK투자증권",
-    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2340&l=&page=1",
-    "refundDate": "2026.11.27",
-    "listingDate": "",
-    "memo": ""
-  },
-  {
     "name": "신영스팩12호",
     "schedule": "2026.11.24~11.25",
-    "confirmedPrice": "-",
+    "confirmedPrice": "2,000",
     "expectedPrice": "2,000~2,000",
     "competitionRate": "-",
     "underwriter": "신영증권",
@@ -357,6 +345,18 @@
     "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2333&l=&page=1",
     "refundDate": "2026.10.27",
     "listingDate": "2026.11.02",
+    "memo": ""
+  },
+  {
+    "name": "인텔리빅스",
+    "schedule": "2026.10.21~10.22",
+    "confirmedPrice": "9,000",
+    "expectedPrice": "7,600~9,000",
+    "competitionRate": "1410.87:1",
+    "underwriter": "미래에셋증권",
+    "detailUrl": "http://www.38.co.kr/html/fund/?o=v&no=2328&l=&page=1",
+    "refundDate": "2026.10.26",
+    "listingDate": "2026.10.30",
     "memo": ""
   }
 ]
